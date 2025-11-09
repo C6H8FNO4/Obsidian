@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/词汇表/四级高频词汇.md",
+                "file": "English/词法/实词/名词.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "四级高频词汇"
+              "title": "名词"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/词汇表/四级高频词汇.md",
+            "file": "English/词法/实词/名词.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,6 +155,7 @@
   },
   "active": "1709bac8a2fc7cac",
   "lastOpenFiles": [
+    "English/词汇表/四级高频词汇.md",
     "English/词法/实词/代词.md",
     "新建 文本文档.md",
     "English/词法/实词/形容词.md",
@@ -167,7 +168,6 @@
     "English/词法/名词",
     "未命名",
     "README.md",
-    "English/词汇表/四级高频词汇.md",
     "English/词汇表"
   ]
 }
