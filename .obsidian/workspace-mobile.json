@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/词法/实词.md",
+                "file": "English/词法/名词.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "实词"
+              "title": "名词"
             }
           }
         ]
@@ -154,8 +154,12 @@
   },
   "active": "1709bac8a2fc7cac",
   "lastOpenFiles": [
-    "README.md",
     "English/词法/实词.md",
+    "English/词法/名词.md",
+    "English/词法/名词/未命名.md",
+    "English/词法/名词",
+    "未命名",
+    "README.md",
     "English/词汇表/四级高频词汇.md",
     "English/词汇表"
   ]
