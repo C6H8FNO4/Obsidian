@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新建 文本文档.md",
+                "file": "English/词汇表/四级高频词汇.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "新建 文本文档"
+              "title": "四级高频词汇"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "新建 文本文档.md",
+            "file": "English/词汇表/四级高频词汇.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
