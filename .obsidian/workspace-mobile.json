@@ -15,7 +15,7 @@
               "state": {
                 "file": "English/词法/实词/名词.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "名词"
