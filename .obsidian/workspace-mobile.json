@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/词汇表/四级高频词汇.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "四级高频词汇"
+              "title": "README"
             }
           }
         ]
@@ -156,7 +156,7 @@
   "lastOpenFiles": [
     "English/词法/实词.md",
     "English/词汇表/四级高频词汇.md",
-    "English/词汇表",
-    "README.md"
+    "README.md",
+    "English/词汇表"
   ]
 }
