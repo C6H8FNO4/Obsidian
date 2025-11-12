@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/音标/辅音.md",
+                "file": "English/音标/元音.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "辅音"
+              "title": "元音"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/音标/辅音.md",
+            "file": "English/音标/元音.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,11 +150,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "publish:发布更改": false
     }
   },
   "active": "15be55ac595f39c4",
   "lastOpenFiles": [
+    "English/音标/辅音.md",
     "English/音标/元音.md",
     "English/生词本",
     "English/词汇表/四级高频词汇.md",
@@ -164,7 +166,6 @@
     "English/词法/实词/名词.md",
     "English/词法/实词/数词.md",
     "English/词法/实词/形容词.md",
-    "English/音标/辅音.md",
     "README.md",
     "English/音标/元音/未命名.md",
     "未命名.md",
