@@ -11,10 +11,14 @@
             "id": "15be55ac595f39c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "English/音标/辅音.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "辅音"
             }
           }
         ]
@@ -150,6 +154,7 @@
   },
   "active": "15be55ac595f39c4",
   "lastOpenFiles": [
+    "English/音标/元音.md",
     "English/生词本",
     "English/词汇表/四级高频词汇.md",
     "English/音标/🎧 英语48个国际音标总表（IPA for English）.md",
@@ -160,7 +165,6 @@
     "English/词法/实词/形容词.md",
     "English/音标/辅音.md",
     "README.md",
-    "English/音标/元音.md",
     "English/音标/元音/未命名.md",
     "未命名.md",
     "未命名",
