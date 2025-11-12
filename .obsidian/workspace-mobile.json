@@ -15,7 +15,7 @@
               "state": {
                 "file": "English/音标/辅音.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "辅音"
