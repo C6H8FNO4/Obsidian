@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/词法/实词/代词.md",
+                "file": "English/音标/辅音.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代词"
+              "title": "辅音"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/词法/实词/代词.md",
+            "file": "English/音标/辅音.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,8 +153,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "ecc6dda49b705d67",
+  "active": "1709bac8a2fc7cac",
   "lastOpenFiles": [
+    "English/词法/实词/代词.md",
     "English/词法/实词/名词.md",
     "README.md",
     "English/词法/实词/形容词.md",
@@ -163,7 +164,6 @@
     "English/音标/辅音.md",
     "English/词汇表/四级高频词汇.md",
     "English/词法/实词/数词.md",
-    "English/词法/实词/代词.md",
     "English/词法/实词/副词.md",
     "English/音标/元音/未命名.md",
     "未命名.md",
