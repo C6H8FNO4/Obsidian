@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/音标/元音.md",
+                "file": "English/音标/辅音.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "元音"
+              "title": "辅音"
             }
           }
         ]
@@ -155,8 +155,9 @@
   },
   "active": "1709bac8a2fc7cac",
   "lastOpenFiles": [
-    "English/词法/实词/形容词.md",
     "English/音标/元音.md",
+    "English/音标/辅音.md",
+    "English/词法/实词/形容词.md",
     "English/音标/元音/未命名.md",
     "README.md",
     "未命名.md",
